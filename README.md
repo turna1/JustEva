@@ -27,14 +27,11 @@ Coming from a society with strong expectations for women’s roles, I thought mo
  My own experiences and those of my colleagues and friends have made me deeply aware of the need for tools that identify and address these biases. **JustEva** was born out of a desire to create a tool that can recognize and validate these often-overlooked biases, giving individuals the support they need to navigate these interactions confidently.
 
 ## What it does
-### 1.
- **JustEva**  is an innovative AI-powered tool designed to address gender bias in communication and provide emotional support to individuals  who face daily challenges navigating gendered interactions. 
+### 1. **JustEva**  is an innovative AI-powered tool designed to address gender bias in communication and provide emotional support to individuals  who face daily challenges navigating gendered interactions. 
 
-### 2.
-By using AI to identify gender bias in communication—whether through text, email, or images—**JustEva** empowers people to recognize bias, understand its impact, and take actionable steps toward building mental resilience and self-assurance. 
+### 2. By using AI to identify gender bias in communication—whether through text, email, or images—**JustEva** empowers people to recognize bias, understand its impact, and take actionable steps toward building mental resilience and self-assurance. 
 
-### 3. 
-It also offers personalized emotional support through solo podcasts, creating a safe space for users to process and understand these experiences.
+### 3. It also offers personalized emotional support through solo podcasts, creating a safe space for users to process and understand these experiences.
 
 ## How we built it
 ### 1. **Bias Detection and Analysis (Gemini Multimodal Capabilities)**
